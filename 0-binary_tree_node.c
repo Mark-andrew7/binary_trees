@@ -16,7 +16,7 @@ return (NULL);
 newNode->n = value;
 newNode->parent = parent;
 newNode->left = NULL;
-newnode->right = NULL;
+newNode->right = NULL;
 
 return (newNode);
 }
